@@ -46,7 +46,7 @@
 
 | 🚀 Project | 🧠 Summary | 🛠️ Stack |
 |-----------|------------|----------|
-| [ZoctorAI](https://github.com/yourusername/zoctorai) | AI-powered health assistant for report analysis | React, Node.js, Gemini, MongoDB |
+| [ZoctorAI](https://github.com/noorshanu/zoctorai) | AI-powered health assistant for report analysis | React, Node.js, Gemini, MongoDB |
 | [LootBox on Solana](https://github.com/yourusername/lootbox-generator) | dApp that opens lootboxes using real swaps | Solana, Jupiter SDK, React |
 | [BeeBox Staking dApp](https://github.com/yourusername/beebox-staking) | Staking platform with Web3 wallet integration | Polygon, RainbowKit, Solidity |
 | [Referral Vault App](https://github.com/yourusername/referral-vault) | Investment dApp with referral rewards | Next.js, Smart Contracts, Tailwind |
@@ -56,12 +56,12 @@
 ### 🧩 Fun GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=noorshanu&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=noorshanu&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&column=7&margin-w=5&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=noorshanu&theme=onestar&column=7&margin-w=5&margin-h=10"/>
 </p>
 
 ---
