@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Noor Alam – Welcome to my GitHub!
 
 <p align="left">
-  <img src="https://github.com/noorshanu/noorshanu/blob/main/banner.png">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;Blockchain+%26+AI+Builder;React+%7C+Node+%7C+PL%2FSQL+Expert;Let%27s+build+something+cool!&center=false&width=380&height=45">
 </p>
 
 ---
